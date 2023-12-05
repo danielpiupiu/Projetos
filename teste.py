@@ -1,2 +1,1 @@
-# Alterado para teste de branch
-# Modificado branching
+print('Ói, malndro!')
