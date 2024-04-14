@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-14T22:40:01.770Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="pYA8FBtOYS0mJwc1g9OQ" version="24.2.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-04-14T22:41:01.775Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="tjNN19zYbA0WbhefUNqL" version="24.2.2" type="github" pages="3">
   <diagram id="r7bpxkjnteEIuomCOhHg" name="Modelo conceitual">
     <mxGraphModel dx="1426" dy="718" grid="1" gridSize="11.811" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1009,7 +1009,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rbmdYJRflk5YP7t9qLyP-29" value="EDITORA" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="70" width="180" height="180" as="geometry" />
+          <mxGeometry x="660" y="270" width="180" height="180" as="geometry" />
         </mxCell>
         <mxCell id="rbmdYJRflk5YP7t9qLyP-30" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="rbmdYJRflk5YP7t9qLyP-29">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
@@ -1077,7 +1077,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rbmdYJRflk5YP7t9qLyP-45" value="TELEFONES CLIENTES" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="360" width="180" height="120" as="geometry" />
+          <mxGeometry x="60" y="420" width="180" height="120" as="geometry" />
         </mxCell>
         <mxCell id="rbmdYJRflk5YP7t9qLyP-46" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="rbmdYJRflk5YP7t9qLyP-45">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
@@ -1119,7 +1119,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rbmdYJRflk5YP7t9qLyP-58" value="PEDIDO" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" vertex="1" parent="1">
-          <mxGeometry x="585" y="90" width="180" height="150" as="geometry" />
+          <mxGeometry x="310" y="405" width="180" height="150" as="geometry" />
         </mxCell>
         <mxCell id="rbmdYJRflk5YP7t9qLyP-59" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="rbmdYJRflk5YP7t9qLyP-58">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
@@ -1174,7 +1174,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rbmdYJRflk5YP7t9qLyP-71" value="LIVRO" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" vertex="1" parent="1">
-          <mxGeometry x="810" y="90" width="180" height="300" as="geometry" />
+          <mxGeometry x="390" y="70" width="180" height="300" as="geometry" />
         </mxCell>
         <mxCell id="rbmdYJRflk5YP7t9qLyP-72" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="rbmdYJRflk5YP7t9qLyP-71">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
@@ -1294,7 +1294,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rbmdYJRflk5YP7t9qLyP-84" value="ESTOQUE" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" vertex="1" parent="1">
-          <mxGeometry x="585" y="339" width="180" height="120" as="geometry" />
+          <mxGeometry x="710" y="60" width="180" height="120" as="geometry" />
         </mxCell>
         <mxCell id="rbmdYJRflk5YP7t9qLyP-85" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="rbmdYJRflk5YP7t9qLyP-84">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
